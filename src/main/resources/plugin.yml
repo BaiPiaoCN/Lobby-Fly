@@ -1,0 +1,3 @@
+name: Lobby Fly
+version: '${project.version}'
+main: org.baipiaocn.lobby_fly.LobbyFly
