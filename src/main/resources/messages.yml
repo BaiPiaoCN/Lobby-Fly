@@ -1,0 +1,6 @@
+fly:
+  no_permission: "&cYou do not have permission to use this command!"
+  already_enabled: "&aFlight is already enabled."
+  enabled: "&aFlight has been enabled."
+  already_disabled: "&cFlight is already disabled."
+  disabled: "&cFlight has been disabled."

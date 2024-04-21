@@ -1,3 +1,6 @@
 name: Lobby Fly
 version: '${project.version}'
 main: org.baipiaocn.lobby_fly.LobbyFly
+commands:
+  fly:
+    description: Toggles flight mode for players with the 'lobby.fly' permission.
